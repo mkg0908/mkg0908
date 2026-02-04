@@ -1,15 +1,16 @@
 # Hi, I'm Manali Gawande
 
-**AI and backend engineer solving problems with clean engineering**  
-Building scalable systems with modern cloud services, automation, and applied machine intelligence.
+**Software Development & Quality Engineer**  
+Building scalable, reliable systems with strong focus on backend engineering, quality, and automation.
 
 ---
 
 ## 🧠 About Me
-- Graduate student in Computer Engineering at Arizona State University  
-- Experience across backend engineering, AI systems, microservices, automation, and cloud infrastructure  
-- Passionate about building systems that scale reliably while delivering intelligent functionality  
-- Strong background in applied machine learning and enterprise grade backend development  
+- MS in Computer Engineering at Arizona State University  
+- 3+ years of experience across software development, quality assurance, and technical project execution  
+- Strong foundation in backend systems, REST APIs, data validation, and test automation  
+- Focused on delivering high-quality, scalable, and maintainable software  
+- Experienced across the SDLC, from requirements and design to testing and production support  
 
 ---
 
@@ -22,7 +23,7 @@ Building scalable systems with modern cloud services, automation, and applied ma
 ![SQL](https://img.shields.io/badge/SQL-025E8C?logo=database&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 
-### Frameworks and Libraries  
+### Frameworks and Technologies  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
@@ -46,37 +47,37 @@ Building scalable systems with modern cloud services, automation, and applied ma
 
 ## 🚀 Featured Projects
 
-### Real Time Threat Detection System  
+### Real-Time Threat Detection System  
 **Python, OpenCV, YOLOv8, AWS Lambda**  
-Enhanced accuracy by 45 percent and reduced response time by 60 percent through a combined vision and cloud inference pipeline.  
-Designed for real time safety monitoring and fast alerting.
+Improved detection accuracy by 45% and reduced response time by 60% using a real-time vision and cloud inference pipeline.  
+Designed for scalable safety monitoring and fast alerting.
 
 ---
 
 ### Fraud Detection in Online Transactions  
 **Python, TensorFlow, SQL**  
-Achieved 92 percent accuracy using anomaly detection and reduced false positives by 28 percent.  
-Built a full ML pipeline including preprocessing, model tuning and evaluation.
+Built an end-to-end ML pipeline achieving 92% accuracy and reducing false positives by 28%.  
+Focused on data preprocessing, model tuning, and evaluation.
 
 ---
 
 ### Chrome Extension for Automated Requirement Validation  
-**JavaScript, Python, LangGraph, APIs**  
-Reduced review time by half by automating compliance checks inside browser workflows.  
-Integrated backend services and LLM based analysis for precise validation.
+**JavaScript, Python, APIs**  
+Automated compliance checks within browser workflows, reducing review time by 50%.  
+Integrated backend services and rule-based analysis for validation.
 
 ---
 
-### LangGraph Intelligent Agent  
-**Python, LLM Orchestration**  
-Developed an automated agent that improves test generation and data validation accuracy by 35 percent.  
-Focused on structured workflows, reliability and distributed reasoning.  
+### Intelligent Agent for Test & Data Validation  
+**Python**  
+Developed an automated agent to improve test generation and data validation accuracy by 35%.  
+Focused on structured workflows, reliability, and maintainability.
 
 ---
 
-### ASU Academic Highlight Project  
-Designed and mentored advanced engineering solutions across data structures, algorithms and applied AI.  
-Supported more than 450 students with a 4.9 satisfaction score.
+### Academic Engineering Project (ASU)  
+Designed and mentored advanced solutions across data structures, algorithms, and applied computing.  
+Supported 450+ students with a 4.9 satisfaction rating.
 
 ---
 
