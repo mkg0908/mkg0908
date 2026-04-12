@@ -1,6 +1,6 @@
 # Hi, I'm Manali Gawande
 
-**Software Development & Quality Engineer**  
+**Software Developer & Quality Engineer**  
 Building scalable, reliable systems with strong focus on backend engineering, quality, and automation.
 
 ---
