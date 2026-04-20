@@ -1,6 +1,5 @@
 Hi, I’m Manali 👋
-
-Technical Program Manager (PMP) with a background in software engineering and large-scale system delivery.
+Technical Program Manager (PMP) with experience delivering large-scale software systems and driving execution across the full SDLC.
 
 I work at the intersection of:
 • Backend systems and APIs
