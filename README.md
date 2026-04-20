@@ -1,17 +1,21 @@
-# Hi, I'm Manali Gawande
+Hi, I’m Manali 👋
 
-**Software Developer & Quality Engineer**  
-Building scalable, reliable systems with strong focus on backend engineering, quality, and automation.
+Technical Program Manager (PMP) with a background in software engineering and large-scale system delivery.
 
----
+I work at the intersection of:
+• Backend systems and APIs
+• Cloud platforms and scalable architectures
+• Program execution across SDLC
 
-## 🧠 About Me
-- MS in Computer Engineering at Arizona State University  
-- 3+ years of experience across software development, quality assurance, and technical project execution  
-- Strong foundation in backend systems, REST APIs, data validation, and test automation  
-- Focused on delivering high-quality, scalable, and maintainable software  
-- Experienced across the SDLC, from requirements and design to testing and production support  
+Experience:
+- Delivered 25+ software releases impacting 65M+ users
+- Improved system reliability and reduced defects by 35%
+- Built cloud-native systems using AWS and REST APIs
 
+Currently focused on:
+- Scalable backend systems
+- Cloud-based architectures
+- Technical program execution
 ---
 
 ## ⚙️ Technical Skills
