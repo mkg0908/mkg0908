@@ -1,7 +1,6 @@
 # Hi, I’m Manali 👋
 
-Software Developer and PMP-certified Product/Program Management professional with 3+ years of experience building scalable backend systems, data analytics workflows, and operational reporting solutions across high-volume platforms.
-
+Software Developer with PMP-certified product and program management experience, focused on building scalable backend systems, data analytics workflows, and operational reporting solutions for high-volume platforms.
 I work at the intersection of:
 
 - Software development, APIs, and cloud systems
