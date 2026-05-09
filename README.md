@@ -1,52 +1,50 @@
-Hi, I’m Manali 👋
-Software Developer and Technical Program Manager (PMP) with experience delivering large-scale software systems and driving execution across the full SDLC.
+# Hi, I’m Manali 👋
+
+Software Developer and PMP-certified Product/Program Management professional with 3+ years of experience building scalable backend systems, data analytics workflows, and operational reporting solutions across high-volume platforms.
 
 I work at the intersection of:
-• Backend systems and APIs
-• Cloud platforms and scalable architectures
-• Program execution across SDLC
 
-Experience:
-- Delivered 25+ software releases impacting 65M+ users
-- Improved system reliability and reduced defects by 35%
-- Built cloud-native systems using AWS and REST APIs
+- Software development, APIs, and cloud systems
+- Product roadmap execution and Agile delivery
+- Program management across the SDLC
+- Data analytics, KPI dashboards, and operational reporting
+- Automation, reliability, and system integration
 
-Currently focused on:
-- Scalable backend systems
-- Cloud-based architectures
-- Technical program execution
----
+## Experience Highlights
 
-## ⚙️ Technical Skills
+- Delivered 25+ software releases across engineering, analytics, compliance, and operations teams
+- Supported platforms serving 60M+ users through roadmap execution, Agile planning, and stakeholder alignment
+- Reduced manual operational effort by 95% through automation, KPI dashboards, and reporting workflows
+- Improved platform reliability by reducing downtime by 23 hours/month through SQL dashboards, API monitoring, and root-cause analysis
+- Built cloud-native analytics systems using AWS, REST APIs, Python, and operational data pipelines
+- Accelerated development cycles by 40% using AI-assisted prototyping, validation, and documentation workflows
 
-### Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-025E8C?logo=database&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+## Current Focus
 
-### Frameworks and Technologies  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB)
+- Backend and API development
+- Data analytics and operational dashboards
+- Product and program execution
+- Cloud-based reporting systems
+- Scalable software systems
+- AI-assisted development and workflow automation
 
-### Cloud and DevOps  
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azuredevops&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+## Technical Skills
 
-### Tools  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+### Software Development
+Python, Java, JavaScript, SQL, C++, REST APIs, Spring Boot, FastAPI, React, System Integration
 
----
+### Product and Program Management
+Product Roadmapping, PRDs, OKRs, Agile, Scrum, Sprint Planning, UAT, Go-Live Planning, Release Management, Stakeholder Management, Cross-Functional Collaboration
+
+### Data Analytics and Reporting
+SQL, Power BI, Tableau, KPI Tracking, Dashboard Reporting, Operational Metrics, Trend Analysis, Root Cause Analysis, Data-Driven Decision Making
+
+### Cloud and DevOps
+AWS Lambda, API Gateway, S3, DynamoDB, EC2, CloudWatch, Docker, Kubernetes, Azure DevOps, GitHub Actions, Jenkins
+
+### AI and Automation
+LangChain, LangGraph, Claude API, GitHub Copilot, Cursor, Prompt Engineering, AI-Assisted Workflows
+
 
 ## 🚀 Featured Projects
 
