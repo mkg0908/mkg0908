@@ -1,60 +1,39 @@
 # Hi, I’m Manali 👋
 
-Software Engineer building full-stack, AI, and fintech systems | Python, Java, React, Spring Boot, FastAPI, AWS, LangChain, and LangGraph
+Software Engineer with experience building full-stack, AI, and fintech systems across APIs, cloud workflows, automation, testing, and production support.
 
-## Technical Skills
+I recently completed my MS in Computer Engineering at Arizona State University, and I have worked on financial technology platforms, AI-powered learning tools, backend services, and cloud-based data pipelines.
 
-### Software Development
-Python, Java, JavaScript, SQL, C++, REST APIs, Spring Boot, FastAPI, React, System Integration
+## What I work on
 
-### Product and Program Management
-Product Roadmapping, PRDs, OKRs, Agile, Scrum, Sprint Planning, UAT, Go-Live Planning, Release Management, Stakeholder Management, Cross-Functional Collaboration
+- Full-stack development using React, Angular, Java, Spring Boot, Python, Flask, and FastAPI
+- AI applications using LangChain, LangGraph, RAG workflows, and LLM-powered assistants
+- Cloud systems using AWS Lambda, ECS, S3, SQS, IoT Greengrass, API Gateway, and CloudWatch
+- API testing, SQL validation, automation, CI/CD, and production debugging
+- Fintech workflows across payments, settlements, loan closure, and debt management systems
 
-### Data Analytics and Reporting
-SQL, Power BI, Tableau, KPI Tracking, Dashboard Reporting, Operational Metrics, Trend Analysis, Root Cause Analysis, Data-Driven Decision Making
+## Featured work
 
-### Cloud and DevOps
-AWS Lambda, API Gateway, S3, DynamoDB, EC2, CloudWatch, Docker, Kubernetes, Azure DevOps, GitHub Actions, Jenkins
+### FinAI Chatbot
+Built a LangChain and LangGraph based chatbot for financial literacy workflows with session-aware conversations and structured content retrieval.
 
-### AI and Automation
-LangChain, LangGraph, Claude API, GitHub Copilot, Cursor, Prompt Engineering, AI-Assisted Workflows
+### momAI
+Developed a culturally-aware AI nutrition assistant with chat, recipe exploration, meal planning, and nutrition tracking. Won 2nd place at Hacks for Humanity.
 
+### IoT Edge-Based Face Recognition on AWS
+Built an edge-to-cloud face recognition system using AWS IoT Greengrass, MQTT, Flask, Lambda, ECS, and SQS, with low-latency elastic processing.
 
-## 🚀 Featured Projects
+### Backend API and Database Optimization
+Built FastAPI services with async database access, caching, Docker support, and deployment-ready infrastructure patterns.
 
-### Real-Time Threat Detection System  
-**Python, OpenCV, YOLOv8, AWS Lambda**  
-Improved detection accuracy by 45% and reduced response time by 60% using a real-time vision and cloud inference pipeline.  
-Designed for scalable safety monitoring and fast alerting.
+## Tech stack
 
----
+Python, Java, JavaScript, TypeScript, SQL, React, Angular, Spring Boot, Flask, FastAPI, Django, LangChain, LangGraph, AWS, Docker, MySQL, PostgreSQL, MongoDB, DynamoDB, Redis, PyTest, Selenium, Postman, Jenkins, Azure DevOps, GitHub Actions, and Git.
 
-### Fraud Detection in Online Transactions  
-**Python, TensorFlow, SQL**  
-Built an end-to-end ML pipeline achieving 92% accuracy and reducing false positives by 28%.  
-Focused on data preprocessing, model tuning, and evaluation.
+## Links
 
----
-
-### Chrome Extension for Automated Requirement Validation  
-**JavaScript, Python, APIs**  
-Automated compliance checks within browser workflows, reducing review time by 50%.  
-Integrated backend services and rule-based analysis for validation.
-
----
-
-### Intelligent Agent for Test & Data Validation  
-**Python**  
-Developed an automated agent to improve test generation and data validation accuracy by 35%.  
-Focused on structured workflows, reliability, and maintainability.
-
----
-
-### Academic Engineering Project (ASU)  
-Designed and mentored advanced solutions across data structures, algorithms, and applied computing.  
-Supported 450+ students with a 4.9 satisfaction rating.
-
----
+- Portfolio: https://manaligawande.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/manalikgawande
 
 ## 📫 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/manalikgawande)  
