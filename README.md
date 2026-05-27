@@ -1,31 +1,6 @@
 # Hi, I’m Manali 👋
 
-Software Developer with PMP-certified product and program management experience, focused on building scalable backend systems, data analytics workflows, and operational reporting solutions for high-volume platforms.
-I work at the intersection of:
-
-- Software development, APIs, and cloud systems
-- Product roadmap execution and Agile delivery
-- Program management across the SDLC
-- Data analytics, KPI dashboards, and operational reporting
-- Automation, reliability, and system integration
-
-## Experience Highlights
-
-- Delivered 25+ software releases across engineering, analytics, compliance, and operations teams
-- Supported platforms serving 60M+ users through roadmap execution, Agile planning, and stakeholder alignment
-- Reduced manual operational effort by 95% through automation, KPI dashboards, and reporting workflows
-- Improved platform reliability by reducing downtime by 23 hours/month through SQL dashboards, API monitoring, and root-cause analysis
-- Built cloud-native analytics systems using AWS, REST APIs, Python, and operational data pipelines
-- Accelerated development cycles by 40% using AI-assisted prototyping, validation, and documentation workflows
-
-## Current Focus
-
-- Backend and API development
-- Data analytics and operational dashboards
-- Product and program execution
-- Cloud-based reporting systems
-- Scalable software systems
-- AI-assisted development and workflow automation
+Software Engineer building full-stack, AI, and fintech systems | Python, Java, React, Spring Boot, FastAPI, AWS, LangChain, and LangGraph
 
 ## Technical Skills
 
