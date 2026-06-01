@@ -6,11 +6,11 @@ I recently completed my MS in Computer Engineering at Arizona State University, 
 
 ## What I work on
 
-- Full-stack development using React, Angular, Java, Spring Boot, Python, Flask, and FastAPI
+- Full-stack development using React, Angular, Python, Flask and FastAPI
 - AI applications using LangChain, LangGraph, RAG workflows, and LLM-powered assistants
-- Cloud systems using AWS Lambda, ECS, S3, SQS, IoT Greengrass, API Gateway, and CloudWatch
+- Cloud systems using AWS Lambda, ECS, S3, SQS, IoT Greengrass, API Gateway and CloudWatch
 - API testing, SQL validation, automation, CI/CD, and production debugging
-- Fintech workflows across payments, settlements, loan closure, and debt management systems
+- Fintech workflows across payments, settlements, loan closure and debt management systems
 
 ## Featured work
 
@@ -19,9 +19,6 @@ Built a LangChain and LangGraph based chatbot for financial literacy workflows w
 
 ### momAI
 Developed a culturally-aware AI nutrition assistant with chat, recipe exploration, meal planning, and nutrition tracking. Won 2nd place at Hacks for Humanity.
-
-### IoT Edge-Based Face Recognition on AWS
-Built an edge-to-cloud face recognition system using AWS IoT Greengrass, MQTT, Flask, Lambda, ECS, and SQS, with low-latency elastic processing.
 
 ### Backend API and Database Optimization
 Built FastAPI services with async database access, caching, Docker support, and deployment-ready infrastructure patterns.
